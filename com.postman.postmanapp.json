@@ -1,0 +1,9 @@
+{
+  "name": "com.postman.postmanapp",
+  "description": "Native Messaging Host for Postman Native App <> Interceptor Integration",
+  "path": "C:\\Users\\Qing_Zhou\\.postman\\InterceptorBridge/InterceptorBridge.exe",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://aicmkgpgakddgnaphhhpliifpcfhicfo/"
+  ]
+}
